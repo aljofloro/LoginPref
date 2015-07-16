@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginSimple</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Opciones</string>
+    <string name="settings_title">Login Settings</string>
+    <string name="username_settings_title">Nombre de usuario</string>
+    <string name="username_settings_summary">Teclee el nombre de usuario</string>
+    <string name="username_settings_dialog_title">Nombre de usuario</string>
+    <string name="password_settings_title">Contraseña</string>
+    <string name="password_settings_summary">Teclee la contraseña</string>
+    <string name="password_settings_dialog_title">Contraseña</string>
+</resources>

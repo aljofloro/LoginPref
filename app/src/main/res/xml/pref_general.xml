@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:inputType="text"
+        android:dialogTitle="@string/username_settings_dialog_title"
+        android:key="USERNAME_SETTINGS"
+        android:summary="@string/username_settings_summary"
+        android:title="@string/username_settings_title"
+        />
+    <EditTextPreference
+        android:inputType="text"
+        android:dialogTitle="@string/password_settings_dialog_title"
+        android:key="PASSWORD_SETTINGS"
+        android:summary="@string/password_settings_summary"
+        android:title="@string/password_settings_title"
+        />
+</PreferenceScreen>
